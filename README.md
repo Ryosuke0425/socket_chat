@@ -15,7 +15,7 @@
 ## 画像や音声の送信
 クライアント側でpngファイルを選択すると送信ができる。
 
-![image](https://github.com/Ryosuke0425/socket_chat/assets/168053509/f87c7a31-81b4-4968-b47e-dab988a87791)
+![image](https://github.com/Ryosuke0425/socket_chat/assets/168053509/7db0984c-3e17-4901-b59c-7f105e9a2acc)
 ![image](https://github.com/Ryosuke0425/socket_chat/assets/168053509/c23e7535-ba4d-4b8f-a3d4-c8c8389a4570)
 
 
